@@ -1,5 +1,19 @@
 # GRC Homelab – Vulnerability Management Project
 
+## 🚀 Project Summary
+
+This project demonstrates a full vulnerability management lifecycle in a simulated enterprise environment.
+
+Activities performed include:
+
+- Conducted vulnerability scanning using Nessus Essentials  
+- Identified and analyzed security risks  
+- Developed a Risk Register and POA&M  
+- Mapped vulnerabilities to NIST SP 800-53 controls  
+- Documented findings in an SSP-style format  
+
+This project highlights practical experience in Governance, Risk, and Compliance (GRC) aligned with the NIST Risk Management Framework (RMF).
+
 ## 📌 Overview
 
 This project demonstrates hands-on experience in Governance, Risk, and Compliance (GRC) by building a home lab environment and conducting a vulnerability assessment using industry-standard tools.
