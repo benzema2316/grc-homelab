@@ -21,6 +21,8 @@ The goal of this lab is to simulate a real-world enterprise environment and perf
 - [Vulnerability Scan Report](vulnerability-management/nessus-scan.md)
 - [Risk Register](vulnerability-management/risk-register.xlsx)
 - [POA&M](vulnerability-management/poam.xlsx)
+- [NIST Control Mapping](vulnerability-management/nist-mapping.md)
+- [SSP Section](vulnerability-management/ssp-section.md)
 
 ## 🏗️ Lab Environment
 
