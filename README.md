@@ -101,4 +101,6 @@ A vulnerability management dashboard was developed using Power BI to visualize r
 - Top vulnerabilities identification
 - Risk table for detailed analysis
 
+This dashboard visualizes vulnerability data from Nessus scans, highlighting severity distribution, high-risk vulnerabilities, and remediation priorities.
+
 ![Dashboard](vulnerability-management/screenshots/dashboard-final.png)
