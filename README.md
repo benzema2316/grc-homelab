@@ -90,3 +90,15 @@ The identified vulnerabilities could lead to:
 - Service disruption (DNS/BIND issues)
 
 Proper remediation reduces organizational risk and improves security posture.
+
+## 📊 GRC Dashboard (Power BI)
+
+A vulnerability management dashboard was developed using Power BI to visualize risk metrics and support decision-making.
+
+### Features:
+- Vulnerability severity distribution
+- Critical and high-risk summary
+- Top vulnerabilities identification
+- Risk table for detailed analysis
+
+![Dashboard](vulnerability-management/screenshots/dashboar-final.png)
