@@ -104,3 +104,10 @@ A vulnerability management dashboard was developed using Power BI to visualize r
 This dashboard visualizes vulnerability data from Nessus scans, highlighting severity distribution, high-risk vulnerabilities, and remediation priorities.
 
 ![Dashboard](vulnerability-management/screenshots/dashboard-final.png)
+
+
+## Vendor Risk Management
+
+This project simulates a third-party risk assessment process for mock vendors. It includes vendor inventory, questionnaire-based due diligence, risk tiering, residual risk assessment, and remediation tracking.
+
+- [Vendor Risk Management Lab](vendor-risk-management/README.md)
